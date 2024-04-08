@@ -1,4 +1,4 @@
-DBNAME=your db name
+DBNAME=homework_9
 DBHOST=localhost
-DBUSER=user name
-DBPASS=password name
+DBUSER=root
+DBPASS=root
